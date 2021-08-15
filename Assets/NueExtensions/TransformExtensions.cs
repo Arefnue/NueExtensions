@@ -1,10 +1,9 @@
 ﻿using System;
 using UnityEngine;
 
-
-namespace NueExtentions
+namespace NueExtensions
 {
-    public static class TransformExtentions
+    public static class TransformExtensions
     {
         /// <summary>
         ///     Makes the given game objects children of the transform.

@@ -1,10 +1,9 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-
-namespace NueExtentions
+namespace NueExtensions
 {
-    public static class VectorExtentions
+    public static class VectorExtensions
     {
          /// <summary>
         ///     Finds the position closest to the given one.

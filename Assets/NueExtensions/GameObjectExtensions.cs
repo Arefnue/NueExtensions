@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace NueExtentions
+namespace NueExtensions
 {
-    public static class GameObjectExtentions
+    public static class GameObjectExtensions
     {
         /// <summary>
         ///     Gets a component attached to the given game object.

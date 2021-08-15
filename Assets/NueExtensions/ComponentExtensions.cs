@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace NueExtentions
+namespace NueExtensions
 {
-    public static class ComponentExtentions
+    public static class ComponentExtensions
     {
         /// <summary>
         ///     Attaches a component to the given component's game object.

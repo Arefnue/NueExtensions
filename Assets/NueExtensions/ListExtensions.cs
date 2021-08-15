@@ -4,9 +4,9 @@ using UnityEngine;
 using Random = UnityEngine.Random;
 
 
-namespace NueExtentions
+namespace NueExtensions
 {
-    public static class ListExtentions
+    public static class ListExtensions
     {
         /// <summary>
         ///     Returns a random item from inside the
